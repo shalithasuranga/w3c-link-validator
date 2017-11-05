@@ -1,5 +1,5 @@
 {
-  "name": "w3c-link-validator",
+  "name": "w3clink",
   "version": "1.0.0",
   "description": "Command line tool, identifying broken links, validate basic html standards and reporting",
   "main": "./src/w3clink.js",
